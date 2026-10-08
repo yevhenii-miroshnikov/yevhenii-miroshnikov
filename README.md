@@ -27,7 +27,7 @@ Academic data warehouse project built with **dbt Core** and **PostgreSQL** using
 
 Academic desktop client-server messenger project using **Java 21**, **JavaFX**, **PostgreSQL** and **Hibernate ORM**.
 
-- Multithreaded server architecture with concurrent TCP socket connections
+- Thread-per-client server architecture with concurrent TCP socket connections
 - XML-based protocol for client-server communication
 - Database persistence for user profiles and message histories
 
