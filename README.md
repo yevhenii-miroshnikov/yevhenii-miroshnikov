@@ -19,9 +19,9 @@ My experience comes primarily from university coursework, academic projects, and
 
 Academic data warehouse project built with **dbt Core** and **PostgreSQL** using **Data Vault 2.0**.
 
-- Layered architecture with staging, Raw Vault and analytical data marts
+- Layered architecture with Bronze, Staging, Raw Data Vault and a Gold analytical mart
 - Data Vault modelling with Hubs, Links and Satellites
-- Change historization and automated data quality tests with dbt
+- Hashdiff-based change detection and incremental historization with automated dbt data-quality tests
 
 ### [Java Client-Server Messenger](https://github.com/yevhenii-miroshnikov/icq-java-messenger)
 
