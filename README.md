@@ -33,10 +33,10 @@ Academic desktop client-server messenger project using **Java 21**, **JavaFX**, 
 
 ### [Weekly Study Planner](https://github.com/yevhenii-miroshnikov/python-team-project-11)
 
-Modular Python CLI application developed as a two-person university team project.
+Modular Python CLI application originally developed as a two-person university project and later independently refined for portfolio use.
 
-- **My contribution:** project structure, console interface, file persistence and module integration
-- Team project features include input validation and unit tests
+- **My original contribution:** project structure, console interface, file persistence and module integration
+- **Later refinement:** robust JSON persistence, input validation, conflict detection, chronological sorting, and expanded unit/integration tests
 
 ### [Womazing](https://github.com/yevhenii-miroshnikov/Womazing) · [Live Demo](https://yevhenii-miroshnikov.github.io/Womazing/)
 
